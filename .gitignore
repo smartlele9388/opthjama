@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+input/
+output/
+*.docx
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.csv
+*.csv.gz
+*.xpt
+*.sas7bdat
+*.zip
+catboost_info/
